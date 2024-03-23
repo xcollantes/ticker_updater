@@ -1,3 +1,5 @@
+# ~/.ticker.yaml
+
 show-summary: true
 show-tags: true
 show-fundamentals: true
@@ -23,12 +25,10 @@ groups:
   - name: options
     watchlist:
     holdings:
-      - symbol: "GOOG240621C330"
-        quantity: 3
-        unit_cost: 1.95
-      - symbol: "AMZN240920C130"
-        quantity: 5
-        unit_cost: 3.25
-      - symbol: "AMZN240920C130"
-        quantity: 5
-        unit_cost: 3.25
+      #- symbol:
+      #  quantity: 17
+      #  unit_cost: 159.10
+      #  fixed_cost: 0
+      - symbol: "NVDL240621C00230000"
+        quantity: 1
+        unit_cost: 54

@@ -1,5 +1,3 @@
-# ~/.ticker.yaml
-
 show-summary: true
 show-tags: true
 show-fundamentals: true
@@ -25,10 +23,6 @@ groups:
   - name: options
     watchlist:
     holdings:
-      #- symbol:
-      #  quantity: 17
-      #  unit_cost: 159.10
-      #  fixed_cost: 0
       - symbol: "NVDL240621C00230000"
         quantity: 1
         unit_cost: 54
